@@ -7,7 +7,7 @@ class MainScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
 child: Container(
-
+child: Center(),
 ),
     );
   }
