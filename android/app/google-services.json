@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468491351248",
+    "project_id": "bankee-f3836",
+    "storage_bucket": "bankee-f3836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468491351248:android:832f6d7a921e7509601ad5",
+        "android_client_info": {
+          "package_name": "com.example.bankee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKN5CdjbupjERond1bBklmm7aBLfA-65A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
